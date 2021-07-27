@@ -15,6 +15,6 @@
 <p>
 
 - ✔ [Social Media Buttons Hover Effect using html and css. "Web Development"](https://n-bhuvanesh.github.io/Button-Hover-Effect/)
-- ✔ [Sources](https://github.com/N-BHUVANESH/TextRotateWebdesign)
+- ✔ [Sources](https://github.com/N-BHUVANESH/Button-Hover-Effect.git)
 
 </p></details>
