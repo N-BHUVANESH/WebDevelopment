@@ -19,13 +19,13 @@
 
 </p></details>
 
-https://n-bhuvanesh.github.io/Type-Effect/
+
 
 <details>
 <summary>Work 3</summary>
 <p>
 
 - ✔ [Type Effect using html and and css. "Web Development"](https://n-bhuvanesh.github.io/Type-Effect/)
-- ✔ [Sources](https://github.com/N-BHUVANESH/Button-Hover-Effect.git)
+- ✔ [Sources](https://github.com/N-BHUVANESH/Type-Effect.git)
 
 </p></details>
