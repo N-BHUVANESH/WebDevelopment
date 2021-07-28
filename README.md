@@ -37,6 +37,6 @@
 <p>
 
 - ✔ [Glass Card Tilt Effect using html,css and javascript. "Web Development"](https://n-bhuvanesh.github.io/Glass-Tilt/)
-- ✔ [Sources](https://github.com/N-BHUVANESH/Type-Effect.git)
+- ✔ [Sources](https://github.com/N-BHUVANESH/Glass-Tilt.git)
 
 </p></details>
